@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: white;
+}
+
+.image{
+    width: 120px;
+    height: 120px;
+}
+
+.home{
+    background-color: blue;
+}
+.intro{
+    background-color: white;
+    color: black;
+}
+
+.about{
+    background-color: aqua;
+}
+
+.footer{
+    background-color: gold;
+}
